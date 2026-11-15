@@ -1,0 +1,17 @@
+# Roblox: arquivos de place e travas criadas pelo Studio
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Saidas geradas por ferramentas
+/build/
+sourcemap.json
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Configuracao local do Claude Code (especifica de cada maquina)
+.claude/settings.local.json
